@@ -4,7 +4,6 @@ export default {
 	async fetch(request, env, ctx) {
 		return gridAwareAuto(request, env, ctx, {
 			gawDataApiKey: env.EMAPS_API_KEY,
-			kvCacheData: true,
 		});
 	},
 };
