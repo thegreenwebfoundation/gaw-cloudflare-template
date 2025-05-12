@@ -1,5 +1,5 @@
 {
-	"name": "gwf-gaw-worker",
+	"name": "gaw-cloudflare-template",
 	"version": "0.0.0",
 	"private": true,
 	"scripts": {
