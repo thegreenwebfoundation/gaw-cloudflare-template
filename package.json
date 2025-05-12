@@ -1,0 +1,17 @@
+{
+	"name": "gwf-gaw-worker",
+	"version": "0.0.0",
+	"private": true,
+	"scripts": {
+		"deploy": "wrangler deploy",
+		"dev": "wrangler dev",
+		"start": "wrangler dev",
+		"test": "vitest"
+	},
+	"devDependencies": {
+		"wrangler": "^4.14.4"
+	},
+	"dependencies": {
+		"@greenweb/gaw-plugin-cloudflare-workers": "^0.3.0-alpha.2"
+	}
+}
