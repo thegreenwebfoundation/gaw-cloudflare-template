@@ -12,6 +12,6 @@
 		"wrangler": "^4.14.4"
 	},
 	"dependencies": {
-		"@greenweb/gaw-plugin-cloudflare-workers": "^0.3.0-alpha.2"
+		"@greenweb/gaw-plugin-cloudflare-workers": "^0.3.1"
 	}
 }
